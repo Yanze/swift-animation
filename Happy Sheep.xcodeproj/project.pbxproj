@@ -7,21 +7,63 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E012A79F1C5EE3AC006D4683 /* mySound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E012A79E1C5EE3AC006D4683 /* mySound.mp3 */; };
+		E012A7A31C5EEA56006D4683 /* Grass_Ground_with_Flowers_PNG_Clipart.png in Resources */ = {isa = PBXBuildFile; fileRef = E012A7A21C5EEA56006D4683 /* Grass_Ground_with_Flowers_PNG_Clipart.png */; };
+		E012A7A71C5EEC67006D4683 /* sky_with_clouds_clip_art_hight.png in Resources */ = {isa = PBXBuildFile; fileRef = E012A7A61C5EEC67006D4683 /* sky_with_clouds_clip_art_hight.png */; };
+		E012A7A91C5EEE47006D4683 /* cartoon-sun-th.png in Resources */ = {isa = PBXBuildFile; fileRef = E012A7A81C5EEE47006D4683 /* cartoon-sun-th.png */; };
 		E0A477D71C5D935400679974 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0A477D61C5D935400679974 /* AppDelegate.swift */; };
 		E0A477D91C5D935400679974 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0A477D81C5D935400679974 /* ViewController.swift */; };
 		E0A477DC1C5D935400679974 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0A477DA1C5D935400679974 /* Main.storyboard */; };
 		E0A477DE1C5D935400679974 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0A477DD1C5D935400679974 /* Assets.xcassets */; };
 		E0A477E11C5D935400679974 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0A477DF1C5D935400679974 /* LaunchScreen.storyboard */; };
+		E0A4783F1C5D9CAD00679974 /* tmp-0.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0A4782E1C5D9CAD00679974 /* tmp-0.gif */; };
+		E0A478401C5D9CAD00679974 /* tmp-1.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0A4782F1C5D9CAD00679974 /* tmp-1.gif */; };
+		E0A478411C5D9CAD00679974 /* tmp-10.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0A478301C5D9CAD00679974 /* tmp-10.gif */; };
+		E0A478421C5D9CAD00679974 /* tmp-11.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0A478311C5D9CAD00679974 /* tmp-11.gif */; };
+		E0A478431C5D9CAD00679974 /* tmp-12.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0A478321C5D9CAD00679974 /* tmp-12.gif */; };
+		E0A478441C5D9CAD00679974 /* tmp-13.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0A478331C5D9CAD00679974 /* tmp-13.gif */; };
+		E0A478451C5D9CAD00679974 /* tmp-14.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0A478341C5D9CAD00679974 /* tmp-14.gif */; };
+		E0A478461C5D9CAD00679974 /* tmp-15.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0A478351C5D9CAD00679974 /* tmp-15.gif */; };
+		E0A478471C5D9CAD00679974 /* tmp-16.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0A478361C5D9CAD00679974 /* tmp-16.gif */; };
+		E0A478481C5D9CAD00679974 /* tmp-2.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0A478371C5D9CAD00679974 /* tmp-2.gif */; };
+		E0A478491C5D9CAD00679974 /* tmp-3.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0A478381C5D9CAD00679974 /* tmp-3.gif */; };
+		E0A4784A1C5D9CAD00679974 /* tmp-4.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0A478391C5D9CAD00679974 /* tmp-4.gif */; };
+		E0A4784B1C5D9CAD00679974 /* tmp-5.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0A4783A1C5D9CAD00679974 /* tmp-5.gif */; };
+		E0A4784C1C5D9CAD00679974 /* tmp-6.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0A4783B1C5D9CAD00679974 /* tmp-6.gif */; };
+		E0A4784D1C5D9CAD00679974 /* tmp-7.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0A4783C1C5D9CAD00679974 /* tmp-7.gif */; };
+		E0A4784E1C5D9CAD00679974 /* tmp-8.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0A4783D1C5D9CAD00679974 /* tmp-8.gif */; };
+		E0A4784F1C5D9CAD00679974 /* tmp-9.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0A4783E1C5D9CAD00679974 /* tmp-9.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E0A477D31C5D935400679974 /* Animations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animations.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E012A79E1C5EE3AC006D4683 /* mySound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = mySound.mp3; sourceTree = "<group>"; };
+		E012A7A21C5EEA56006D4683 /* Grass_Ground_with_Flowers_PNG_Clipart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Grass_Ground_with_Flowers_PNG_Clipart.png; sourceTree = "<group>"; };
+		E012A7A61C5EEC67006D4683 /* sky_with_clouds_clip_art_hight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sky_with_clouds_clip_art_hight.png; sourceTree = "<group>"; };
+		E012A7A81C5EEE47006D4683 /* cartoon-sun-th.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cartoon-sun-th.png"; sourceTree = "<group>"; };
+		E0A477D31C5D935400679974 /* Happy Sheep.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Happy Sheep.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0A477D61C5D935400679974 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E0A477D81C5D935400679974 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E0A477DB1C5D935400679974 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E0A477DD1C5D935400679974 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E0A477E01C5D935400679974 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E0A477E21C5D935400679974 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0A4782E1C5D9CAD00679974 /* tmp-0.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tmp-0.gif"; sourceTree = "<group>"; };
+		E0A4782F1C5D9CAD00679974 /* tmp-1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tmp-1.gif"; sourceTree = "<group>"; };
+		E0A478301C5D9CAD00679974 /* tmp-10.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tmp-10.gif"; sourceTree = "<group>"; };
+		E0A478311C5D9CAD00679974 /* tmp-11.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tmp-11.gif"; sourceTree = "<group>"; };
+		E0A478321C5D9CAD00679974 /* tmp-12.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tmp-12.gif"; sourceTree = "<group>"; };
+		E0A478331C5D9CAD00679974 /* tmp-13.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tmp-13.gif"; sourceTree = "<group>"; };
+		E0A478341C5D9CAD00679974 /* tmp-14.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tmp-14.gif"; sourceTree = "<group>"; };
+		E0A478351C5D9CAD00679974 /* tmp-15.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tmp-15.gif"; sourceTree = "<group>"; };
+		E0A478361C5D9CAD00679974 /* tmp-16.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tmp-16.gif"; sourceTree = "<group>"; };
+		E0A478371C5D9CAD00679974 /* tmp-2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tmp-2.gif"; sourceTree = "<group>"; };
+		E0A478381C5D9CAD00679974 /* tmp-3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tmp-3.gif"; sourceTree = "<group>"; };
+		E0A478391C5D9CAD00679974 /* tmp-4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tmp-4.gif"; sourceTree = "<group>"; };
+		E0A4783A1C5D9CAD00679974 /* tmp-5.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tmp-5.gif"; sourceTree = "<group>"; };
+		E0A4783B1C5D9CAD00679974 /* tmp-6.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tmp-6.gif"; sourceTree = "<group>"; };
+		E0A4783C1C5D9CAD00679974 /* tmp-7.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tmp-7.gif"; sourceTree = "<group>"; };
+		E0A4783D1C5D9CAD00679974 /* tmp-8.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tmp-8.gif"; sourceTree = "<group>"; };
+		E0A4783E1C5D9CAD00679974 /* tmp-9.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tmp-9.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,7 +88,7 @@
 		E0A477D41C5D935400679974 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E0A477D31C5D935400679974 /* Animations.app */,
+				E0A477D31C5D935400679974 /* Happy Sheep.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -56,7 +98,12 @@
 			children = (
 				E0A477D61C5D935400679974 /* AppDelegate.swift */,
 				E0A477D81C5D935400679974 /* ViewController.swift */,
+				E012A7A61C5EEC67006D4683 /* sky_with_clouds_clip_art_hight.png */,
+				E012A7A81C5EEE47006D4683 /* cartoon-sun-th.png */,
 				E0A477DA1C5D935400679974 /* Main.storyboard */,
+				E012A79E1C5EE3AC006D4683 /* mySound.mp3 */,
+				E012A7A21C5EEA56006D4683 /* Grass_Ground_with_Flowers_PNG_Clipart.png */,
+				E0A4782D1C5D9CAD00679974 /* output */,
 				E0A477DD1C5D935400679974 /* Assets.xcassets */,
 				E0A477DF1C5D935400679974 /* LaunchScreen.storyboard */,
 				E0A477E21C5D935400679974 /* Info.plist */,
@@ -64,12 +111,36 @@
 			path = Animations;
 			sourceTree = "<group>";
 		};
+		E0A4782D1C5D9CAD00679974 /* output */ = {
+			isa = PBXGroup;
+			children = (
+				E0A4782E1C5D9CAD00679974 /* tmp-0.gif */,
+				E0A4782F1C5D9CAD00679974 /* tmp-1.gif */,
+				E0A478301C5D9CAD00679974 /* tmp-10.gif */,
+				E0A478311C5D9CAD00679974 /* tmp-11.gif */,
+				E0A478321C5D9CAD00679974 /* tmp-12.gif */,
+				E0A478331C5D9CAD00679974 /* tmp-13.gif */,
+				E0A478341C5D9CAD00679974 /* tmp-14.gif */,
+				E0A478351C5D9CAD00679974 /* tmp-15.gif */,
+				E0A478361C5D9CAD00679974 /* tmp-16.gif */,
+				E0A478371C5D9CAD00679974 /* tmp-2.gif */,
+				E0A478381C5D9CAD00679974 /* tmp-3.gif */,
+				E0A478391C5D9CAD00679974 /* tmp-4.gif */,
+				E0A4783A1C5D9CAD00679974 /* tmp-5.gif */,
+				E0A4783B1C5D9CAD00679974 /* tmp-6.gif */,
+				E0A4783C1C5D9CAD00679974 /* tmp-7.gif */,
+				E0A4783D1C5D9CAD00679974 /* tmp-8.gif */,
+				E0A4783E1C5D9CAD00679974 /* tmp-9.gif */,
+			);
+			path = output;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E0A477D21C5D935400679974 /* Animations */ = {
+		E0A477D21C5D935400679974 /* Happy Sheep */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E0A477E51C5D935400679974 /* Build configuration list for PBXNativeTarget "Animations" */;
+			buildConfigurationList = E0A477E51C5D935400679974 /* Build configuration list for PBXNativeTarget "Happy Sheep" */;
 			buildPhases = (
 				E0A477CF1C5D935400679974 /* Sources */,
 				E0A477D01C5D935400679974 /* Frameworks */,
@@ -79,9 +150,9 @@
 			);
 			dependencies = (
 			);
-			name = Animations;
+			name = "Happy Sheep";
 			productName = Animations;
-			productReference = E0A477D31C5D935400679974 /* Animations.app */;
+			productReference = E0A477D31C5D935400679974 /* Happy Sheep.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +171,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E0A477CE1C5D935400679974 /* Build configuration list for PBXProject "Animations" */;
+			buildConfigurationList = E0A477CE1C5D935400679974 /* Build configuration list for PBXProject "Happy Sheep" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -113,7 +184,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E0A477D21C5D935400679974 /* Animations */,
+				E0A477D21C5D935400679974 /* Happy Sheep */,
 			);
 		};
 /* End PBXProject section */
@@ -123,9 +194,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0A4784B1C5D9CAD00679974 /* tmp-5.gif in Resources */,
+				E0A478481C5D9CAD00679974 /* tmp-2.gif in Resources */,
 				E0A477E11C5D935400679974 /* LaunchScreen.storyboard in Resources */,
+				E0A4784E1C5D9CAD00679974 /* tmp-8.gif in Resources */,
+				E0A478421C5D9CAD00679974 /* tmp-11.gif in Resources */,
 				E0A477DE1C5D935400679974 /* Assets.xcassets in Resources */,
+				E0A478471C5D9CAD00679974 /* tmp-16.gif in Resources */,
+				E012A7A91C5EEE47006D4683 /* cartoon-sun-th.png in Resources */,
+				E0A478401C5D9CAD00679974 /* tmp-1.gif in Resources */,
+				E0A478411C5D9CAD00679974 /* tmp-10.gif in Resources */,
+				E012A79F1C5EE3AC006D4683 /* mySound.mp3 in Resources */,
+				E0A4784D1C5D9CAD00679974 /* tmp-7.gif in Resources */,
 				E0A477DC1C5D935400679974 /* Main.storyboard in Resources */,
+				E012A7A31C5EEA56006D4683 /* Grass_Ground_with_Flowers_PNG_Clipart.png in Resources */,
+				E0A478461C5D9CAD00679974 /* tmp-15.gif in Resources */,
+				E0A478441C5D9CAD00679974 /* tmp-13.gif in Resources */,
+				E0A478491C5D9CAD00679974 /* tmp-3.gif in Resources */,
+				E0A4784A1C5D9CAD00679974 /* tmp-4.gif in Resources */,
+				E0A478451C5D9CAD00679974 /* tmp-14.gif in Resources */,
+				E0A4784F1C5D9CAD00679974 /* tmp-9.gif in Resources */,
+				E0A4783F1C5D9CAD00679974 /* tmp-0.gif in Resources */,
+				E0A4784C1C5D9CAD00679974 /* tmp-6.gif in Resources */,
+				E0A478431C5D9CAD00679974 /* tmp-12.gif in Resources */,
+				E012A7A71C5EEC67006D4683 /* sky_with_clouds_clip_art_hight.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,7 +343,7 @@
 				INFOPLIST_FILE = Animations/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.riverinntechnology.Animations;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Happy Sheep";
 			};
 			name = Debug;
 		};
@@ -262,14 +354,14 @@
 				INFOPLIST_FILE = Animations/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.riverinntechnology.Animations;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Happy Sheep";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E0A477CE1C5D935400679974 /* Build configuration list for PBXProject "Animations" */ = {
+		E0A477CE1C5D935400679974 /* Build configuration list for PBXProject "Happy Sheep" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0A477E31C5D935400679974 /* Debug */,
@@ -278,13 +370,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E0A477E51C5D935400679974 /* Build configuration list for PBXNativeTarget "Animations" */ = {
+		E0A477E51C5D935400679974 /* Build configuration list for PBXNativeTarget "Happy Sheep" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0A477E61C5D935400679974 /* Debug */,
 				E0A477E71C5D935400679974 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
